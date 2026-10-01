@@ -1,0 +1,16 @@
+personal-expense-tracker/
+
+│
+├── app.py
+│
+├── expenses.db
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+├── architecture.txt
+│
+└── README.md

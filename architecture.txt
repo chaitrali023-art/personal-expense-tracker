@@ -1,0 +1,30 @@
+PERSONAL EXPENSE TRACKER ARCHITECTURE
+
+Frontend
+|
+|-- HTML (index.html)
+|-- CSS (style.css)
+|
+Backend
+|
+|-- Flask (app.py)
+|
+Database
+|
+|-- SQLite (expenses.db)
+
+WORKFLOW
+
+User
+  |
+  v
+Frontend (HTML Form)
+  |
+  v
+Flask Backend
+  |
+  v
+SQLite Database
+  |
+  v
+Dashboard & Reports

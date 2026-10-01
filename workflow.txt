@@ -1,0 +1,19 @@
+PROJECT WORKFLOW
+
+1. User enters expense details.
+
+2. Flask receives form data.
+
+3. Data is validated.
+
+4. Expense is stored in SQLite database.
+
+5. Budget is updated.
+
+6. Dashboard calculates:
+   - Total Expenses
+   - Remaining Budget
+   - Expense Count
+   - Highest Expense
+
+7. Results displayed on dashboard.
